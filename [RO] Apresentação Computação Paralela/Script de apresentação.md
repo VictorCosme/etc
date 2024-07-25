@@ -6,7 +6,7 @@
 
 - **Processo**: uma instância de um programa que está sendo executado pelo computador 
 ---
-![[Process.jpg]]
+![(Process.jpg)](./Process.jpg)
 
 ---
 - Situações há em que é útil reordenar e agrupar as instruções para que sejam **executadas em paralelo** sem mudar o resultado do programa.
@@ -86,12 +86,11 @@
 ---
 #### Cliente-server
 - Computador central orquestra os periféricos, provendo os recursos e os serviços necessários
-%% ![[images.png]] %%
 ---
 #### Peer-to-peer
 - Computadores *colaboram* sem uma autoridade central, envolvendo a comunicação e o compartilhamento de recursos
 ---
-![[client-server-vs-p2p.png]]
+![[client-server-vs-p2p.png]](./client-server-vs-p2p.png)
 
 ---
 ### Modelo principal: MPI
